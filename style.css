@@ -1,0 +1,58 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: bisque;
+  padding: 20px;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+}
+.search2 {
+  width: 400px;
+  height: 30px;
+}
+.hpage {
+  background-color: aliceblue;
+  justify-items: center;
+}
+.template1 {
+  justify-items: center;
+  background-color: cornflowerblue;
+  width: 1450px;
+  height: 110px;
+}
+.template2 {
+  background-color: aqua;
+  width: 1450px;
+  height: 110px;
+}
+.template3 {
+  background-color: aquamarine;
+  width: 1450px;
+  height: 110px;
+}
+.template4 {
+  background-color: blueviolet;
+  width: 1450px;
+  height: 110px;
+}
+.template5{
+  background-color:gold;
+  width: 1450px;
+  height: 110px;
+}
+
+
+
+
+
+
+
+
+footer{
+  background-color: brown;
+  height: 25px;
+
+}
