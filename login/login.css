@@ -20,6 +20,7 @@
     padding: 20px;;
     border: none;
     border-radius: 15px;
+    backdrop-filter: blur(10px);
     background: rgba(121, 121, 121, 0.3);
     font-weight: bold;
     cursor: pointer;

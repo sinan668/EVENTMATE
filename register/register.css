@@ -19,10 +19,10 @@
     width: 350px;
     padding: 20px;
     border: none;
+    backdrop-filter: blur(10px);
     border-radius: 15px;
     background: rgba(121, 121, 121, 0.3);
     font-weight: bold;
-    cursor: pointer;
     transition: 0.3s;
 }
 .input-text{
@@ -37,7 +37,7 @@
 .login-button {
   width: 100%;
   padding: 12px;
-  margin-top: 50px;
+  margin-top: 30px;
   border-radius: 15px;
   border: none;
   cursor: pointer;
